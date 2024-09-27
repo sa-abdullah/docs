@@ -38,3 +38,6 @@ Set sepia to `100%`:
   filter: sepia(100%);
 }
 ```
+![Output for the above example on sepia()]([media/css-filterfunction-sepia.png](https://github.com/sa-abdullah/docs/blob/954f9125984980adf13c1351a3d342c745cc67a4/media/css-filterfunction-sepia.png))
+Here, the first image shows the original sepia filter at sepia(100%), the second image sets the sepia filter at sepia(50%), while the third image sets it at sepia(5%)
+
